@@ -1,8 +1,8 @@
 # AOVPN Baseline Scripts
-These scripts are designed to the used with the free AOVPN Baseline Configuration guide which can be downloaded from [here](www.poweronplatforms.com/blog/aovpnguide)
+These scripts are designed to the used with the free AOVPN Baseline Configuration guide which can be downloaded from [here](https://www.poweronplatforms.com/free-release-aovpn-baseline/)
 
 # Disclaimer
-These SCRIPTS are provided by THE PROVIDER "as is" and "with all faults." THE PROVIDER makes no representations or warranties of any kind concerning the safety, suitability, lack of viruses, inaccuracies, typographical errors, or other harmful components of these SCRIPTS. There are inherent dangers in the use of any software, and you are solely responsible for determining whether these SCRIPTS are compatible with your equipment and other software installed on your equipment. You are also solely responsible for the protection of your equipment and backup of your data, and THE PROVIDER will not be liable for any damages you may suffer in connection with using, modifying, or distributing these SCRIPTS. 
+These scripts are provided by PowerON "as is" and "with all faults." PowerON makes no representations or warranties of any kind concerning the safety, suitability, lack of viruses, inaccuracies, typographical errors, or other harmful components of these scripts or related materials. There are inherent dangers in the use of any software, and you are solely responsible for determining whether these scripts are compatible with your equipment and other software installed on your equipment. You are also solely responsible for the protection of your equipment and backup of your data, and PowerON will not be liable for any damages you may suffer in connection with using, modifying, or distributing these scripts. 
 
 ## Set-AOVPNServerSecure.ps1
 Configures the server to encrypt the IKEv2 tunnel with AES128 encryption rather than the default 3DES.
